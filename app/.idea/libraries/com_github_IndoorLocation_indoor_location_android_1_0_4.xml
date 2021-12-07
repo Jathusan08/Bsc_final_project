@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.github.IndoorLocation:indoor-location-android-1.0.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/indoor-location-android-1.0.4.aar/d8c363c6e45a3f07e09f2ba79983f19d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/indoor-location-android-1.0.4.aar/d8c363c6e45a3f07e09f2ba79983f19d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
